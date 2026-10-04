@@ -1,0 +1,15 @@
+.container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.header{
+    width: 100%;
+    height: 10%;
+    background-color: #0c6b70;
+}.header h1{
+    color: #c37b7b;
+    text-align: center;
+    line-height: 100px;
+}
